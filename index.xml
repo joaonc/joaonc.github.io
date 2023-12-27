@@ -13,7 +13,8 @@
       <link>https://joaonc.github.io/posts/hello/</link>
       <pubDate>Wed, 27 Dec 2023 04:23:24 -0600</pubDate>
       <guid>https://joaonc.github.io/posts/hello/</guid>
-      <description>This is a test post.</description>
+      <description>This is a test post.
+# This is a code snippet def test_looks(): &amp;#34;&amp;#34;&amp;#34; Testing how **it** looks. &amp;#34;&amp;#34;&amp;#34; return 1+1 </description>
     </item>
   </channel>
 </rss>
