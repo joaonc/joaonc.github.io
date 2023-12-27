@@ -2,10 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Joao Blog</title>
-    <link>/tags/</link>
+    <link>https://joaonc.github.io/tags/</link>
     <description>Recent content in Tags on Joao Blog</description>
+    <image>
+      <title>Joao Blog</title>
+      <url>https://joaonc.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://joaonc.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joaonc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
