@@ -18,7 +18,7 @@
       <link>https://joaonc.github.io/posts/about/</link>
       <pubDate>Wed, 27 Dec 2023 09:27:32 -0600</pubDate>
       <guid>https://joaonc.github.io/posts/about/</guid>
-      <description>A second post.</description>
+      <description>&lt;p&gt;A second post with the summary appearing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello</title>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 27 Dec 2023 04:23:24 -0600</pubDate>
       <guid>https://joaonc.github.io/posts/hello/</guid>
       <description>This is a test post.
-# This is a code snippet def test_looks(): &amp;#34;&amp;#34;&amp;#34; Testing how **it** looks. &amp;#34;&amp;#34;&amp;#34; return 1+1 Editing just a bit</description>
+# This is a code snippet def test_looks(): &amp;#34;&amp;#34;&amp;#34; Testing how it looks. Note: No formatting in docstrings. &amp;#34;&amp;#34;&amp;#34; return 1 + 1 Editing just a bit</description>
     </item>
   </channel>
 </rss>
