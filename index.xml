@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joao Blog</title>
+    <link>https://joaonc.github.io/</link>
+    <description>Recent content on Joao Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Dec 2023 04:23:24 -0600</lastBuildDate>
+    <atom:link href="https://joaonc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://joaonc.github.io/posts/hello/</link>
+      <pubDate>Wed, 27 Dec 2023 04:23:24 -0600</pubDate>
+      <guid>https://joaonc.github.io/posts/hello/</guid>
+      <description>This is a test post.</description>
+    </item>
+  </channel>
+</rss>
